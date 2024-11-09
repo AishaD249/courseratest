@@ -1,0 +1,41 @@
+body {
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+/* Links */
+a {
+    color: #ccc;
+}
+
+a:hover {
+    color: #fff;
+}
+
+/* Headings */
+h1, h2, h3, h4, h5, h6 {
+    color: #ddd;
+}
+
+/* Buttons */
+button, .button {
+    background-color: #444;
+    color: #fff;
+    border: 1px solid #777;
+}
+
+button:hover, .button:hover {
+    background-color: #666;
+    color: #000;
+}
+
+/* Additional elements */
+header, footer {
+    background-color: #111;
+    color: #eee;
+}
+
+hr {
+    border-color: #444;
+}
